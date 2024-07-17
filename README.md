@@ -13,6 +13,7 @@ EXE를 실행 시키고
 처음 아래에 보이는 ADD python.exe TO PATH 을
 체크 해준다.
 
+
 - vsc 설치
 
 설치하고 vsc실행후 확장을 설치해줘야한다.
