@@ -2,6 +2,7 @@
 
 ## 1. 설치
 [여기서 파이썬 설치 한다.](https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe)
+
 [여기서 vsc 설치 한다.](https://code.visualstudio.com/)
 - 다운로드 버튼만 누르면 끝
 
