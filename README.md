@@ -74,6 +74,8 @@ Windows 검색에서 (Windwos 검색이란 왼쪽아래에 윈도우 버튼 오�
 `C:\Users\니 컴퓨터 이름\AppData\Local\Programs\Python\Python312`
 `C:\Users\니 컴퓨터 이름\AppData\Local\Programs\Python\Python312\Scripts`
 이 두개를 추가한다.
+(여기서 니 컴퓨터 이름은 컴퓨터 만들떄 이름 정한거 말하는거다)
+(이것도 모르면 구글링 ㄱㄱ)
 
 그럼 끝이니 다 닫아도 된다.
 
